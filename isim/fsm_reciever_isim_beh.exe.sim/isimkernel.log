@@ -1,0 +1,29 @@
+Command line:
+   fsm_reciever_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  55102
+
+Thu Mar 25 19:14:47 2021
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5160.62 Meg
+
+ Total Signals          : 16
+ Total Nets             : 19
+ Total Signal Drivers   : 8
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 12
+ Total Traceable Variables  : 28
+ Total Scalar Nets and Variables : 118
+Total Line Count : 45
+
+ Total Simulation Time: 0.0625 sec
+
+ Current Memory Usage: 5160.62 Meg
+
+Thu Mar 25 19:15:08 2021
+

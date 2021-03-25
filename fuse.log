@@ -1,0 +1,22 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o C:/Verilog/project/uart_new/tb_reciever_isim_beh.exe -prj C:/Verilog/project/uart_new/tb_reciever_beh.prj work.tb_reciever work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Verilog/project/uart_new/reciever.v" into library work
+Analyzing Verilog file "C:/Verilog/project/uart_new/tb_reciever.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module fsm_reciever
+Compiling module sipo_8bit
+Compiling module parity_checker
+Compiling module stop_checker
+Compiling module reciever
+Compiling module tb_reciever
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Compiled 7 Verilog Units
+Built simulation executable C:/Verilog/project/uart_new/tb_reciever_isim_beh.exe
+Fuse Memory Usage: 27956 KB
+Fuse CPU Usage: 343 ms

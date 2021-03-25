@@ -1,0 +1,3 @@
+verilog work "transmitter.v"
+verilog work "reciever.v"
+verilog work "uart.v"

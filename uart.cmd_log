@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Verilog/project/uart_new/uart.xst" -ofn "C:/Verilog/project/uart_new/uart.syr" 

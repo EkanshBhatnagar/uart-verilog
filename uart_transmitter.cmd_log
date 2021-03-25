@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "C:/Verilog/project/uart_new/uart_transmitter.xst" -ofn "C:/Verilog/project/uart_new/uart_transmitter.syr" 
+xst -intstyle ise -ifn "C:/Verilog/project/uart_new/uart_transmitter.xst" -ofn "C:/Verilog/project/uart_new/uart_transmitter.syr" 
+xst -intstyle ise -ifn "C:/Verilog/project/uart_new/uart_transmitter.xst" -ofn "C:/Verilog/project/uart_new/uart_transmitter.syr" 
+xst -intstyle ise -ifn "C:/Verilog/project/uart_new/uart_transmitter.xst" -ofn "C:/Verilog/project/uart_new/uart_transmitter.syr" 
+xst -intstyle ise -ifn "C:/Verilog/project/uart_new/uart_transmitter.xst" -ofn "C:/Verilog/project/uart_new/uart_transmitter.syr" 

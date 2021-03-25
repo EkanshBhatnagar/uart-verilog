@@ -1,0 +1,11 @@
+MO uart_transmitter NULL transmitter.v vlg08/uart__transmitter.bin 1616684276
+MO fsm_transmitter NULL transmitter.v vlg02/fsm__transmitter.bin 1616684276
+MO reciever NULL reciever.v vlg31/reciever.bin 1616684276
+MO mux_4x1 NULL transmitter.v vlg06/mux__4x1.bin 1616684276
+MO fsm_reciever NULL reciever.v vlg1A/fsm__reciever.bin 1616684276
+MO parity_gen NULL transmitter.v vlg72/parity__gen.bin 1616684276
+MO piso_8bit NULL transmitter.v vlg45/piso__8bit.bin 1616684276
+MO sipo_8bit NULL reciever.v vlg4D/sipo__8bit.bin 1616684276
+MO stop_checker NULL reciever.v vlg56/stop__checker.bin 1616684276
+MO parity_checker NULL reciever.v vlg09/parity__checker.bin 1616684276
+MO uart NULL uart.v vlg48/uart.bin 1616684276

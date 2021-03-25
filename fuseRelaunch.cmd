@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Verilog/project/uart_new/tb_reciever_isim_beh.exe" -prj "C:/Verilog/project/uart_new/tb_reciever_beh.prj" "work.tb_reciever" "work.glbl" 
